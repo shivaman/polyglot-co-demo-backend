@@ -29,7 +29,7 @@ export default class PolyglotCo extends React.Component {
       <div style={{height:"100vh"}}>
         {this._renderCityGlows()}
         <div className="p3 absolute bottom-0 right-0 z2" style={{mixBlendMode:'screen'}}>
-          <p className="h2 m0 caps bold"><a className="color-trans-white text-decoration-none hover-color-white transition-all" href="https://github.com/buildkite/polyglot-co-demo">Github Source →</a></p>
+          <p className="h2 m0 caps bold"><a className="color-trans-white text-decoration-none hover-color-white transition-all" href="https://github.com/shivaman/polyglot-co-demo-backend">Github Source →</a></p>
         </div>
         <div className="p3 absolute top-0 left-0 z2">
           {this._renderBackendBuild()}
