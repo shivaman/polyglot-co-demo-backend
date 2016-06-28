@@ -1,4 +1,4 @@
-package main // import "github.com/shivaman/polyglot-co-demo-backend"
+package main // import "github.com/buildkite/polyglot-co-demo-backend"
 
 import (
 	"bytes"
